@@ -3,12 +3,12 @@
   "version": "111.0.0-daily.2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diagnal/rn-webrtc-lib-patched"
+    "url": "git+https://github.com/Lounges-tv/lounges-patched-webrtc"
   },
   "nativePackage": true,
   "description": "Daily fork of WebRTC for React Native",
   "license": "MIT",
-  "homepage": "https://github.com/diagnal/rn-webrtc-lib-patched.git",
+  "homepage": "https://github.com/Lounges-tv/lounges-patched-webrtc.git",
   "keywords": [
     "react-component",
     "react-native",
@@ -42,7 +42,7 @@
     "postinstall": "node tools/unZipWebRTC.js"
   },
   "bugs": {
-    "url": "https://github.com/diagnal/rn-webrtc-lib-patched/issues"
+    "url": "https://github.com/Lounges-tv/lounges-patched-webrtc/issues"
   },
   "devDependencies": {
     "@types/debug": "4.1.7",

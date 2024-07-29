@@ -5,7 +5,7 @@ const fs = require('fs');
 (async () => {
   if (process.platform === 'darwin') {
     const fileUrl =
-      'https://github.com/diagnal/rn-webrtc-lib-patched/releases/download/patch%234/WebRTC.xcframework.zip';
+      'https://github.com/Lounges-tv/lounges-patched-webrtc/releases/download/patch%237/WebRTC.xcframework.zip';
     const source = './apple/WebRTC.xcframework.zip';
     const target = './apple/';
 
